@@ -3,3 +3,4 @@ git add FICHIER
 git commit -m 'COMMENTAIRE'
 git remote add origin LIEN_REPO
 git push -u origin BRANCH
+git pull
